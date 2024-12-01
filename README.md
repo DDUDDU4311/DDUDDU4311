@@ -1,6 +1,6 @@
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-![SuYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDUDDU4311&show_icons=true&theme=radical)
+![DDUDDU4311's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDUDDU4311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDUDDU4311&layout=compact)
 
 <!--타이틀 부분-->

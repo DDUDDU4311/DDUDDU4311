@@ -7,7 +7,7 @@
 
 <hr>
 
-<div style="text-align: center; line-height: 1.5;">
+<div style="text-align: center;">
   <p>안녕하세요:) 제 이름은 정수연이고, SSAFY에서 교육중입니다.</p>
   <p>최종적으로 실력있는 프론트엔드 개발자로 성장하는 것이 목표입니다.</p>
   <p>현재에 머물러있지 않고 항상 부족한 부분을 스스로 채워가는 개발자가 되겠습니다!</p>

@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" style="display: inline-block; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=300&size=45&duration=4000&pause=3&color=800080&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+There+SuYeon's+GitHub!👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=800080&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+There+SuYeon's+GitHub!👋" alt="Typing SVG" />
   </a>
 </div>
 

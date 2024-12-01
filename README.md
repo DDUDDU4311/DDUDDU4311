@@ -1,12 +1,12 @@
-<img src="https://i.pinimg.com/474x/4e/59/03/4e5903d92235b4d5ca39a74051426401.jpg" width="300" height="200"/>
-안녕하세요 정수연입니다 :) 반갑습니다☆★
+
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 ![SuYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDUDDU4311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDUDDU4311&layout=compact)
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://i.pinimg.com/474x/4e/59/03/4e5903d92235b4d5ca39a74051426401.jpg" width="300" height="200"/>
+    안녕하세요 정수연입니다 :) 반갑습니다☆★
 </div>
 
 <!--내용 부분-->
@@ -27,8 +27,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
@@ -38,7 +36,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
 <br>

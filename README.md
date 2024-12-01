@@ -7,14 +7,15 @@
 
 <hr>
 
-<div style="text-align: center;">
+## 👀 About Me
+<div align="center">
   <p>안녕하세요:) 제 이름은 정수연이고, SSAFY에서 교육중입니다.</p>
   <p>최종적으로 실력있는 프론트엔드 개발자로 성장하는 것이 목표입니다.</p>
   <p>현재에 머물러있지 않고 항상 부족한 부분을 스스로 채워가는 개발자가 되겠습니다!</p>
 </div>
 
 
-<!--내용 부분-->
+## 💡 Skills
 <h3 align="center">⭐ Tech Stack ⭐</h3>
 <div align="center">
   
@@ -51,13 +52,9 @@
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
 
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
+## 📞 Contact
+<h3 align="center">📮 Email 📮</h3>
 <div align="center">
-  <a href="mailto:wjdtndus23@naver.com">
-    <img src="https://img.shields.io/badge/wjdtndus23@naver.com-03C75D?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+  <p>wjdtndus23@naver.com</p>
 </div>
 
